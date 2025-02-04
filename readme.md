@@ -1,5 +1,7 @@
 **Update:**
-As of now, I have decided to pause this project. The latest Linux Mint already came out with something I need..lol
+
+As of now, I have decided to pause this project.
+I just notice the latest Linux Mint just came out with the feature I needed..lol
 
 ---
 
