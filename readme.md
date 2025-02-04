@@ -1,3 +1,8 @@
+**Update:**
+As of now, I have decided to pause this project. The latest Linux Mint already came out with something I need..lol
+
+---
+
 # Fluxxie: The Blue Light Filter
 
 ## Overview
